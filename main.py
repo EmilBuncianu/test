@@ -14,12 +14,14 @@ if __name__ == '__main__':
     print_hi('PyCharm update'
              ' Ben'
              ' ion'
-             'gigi'
-             'petru'
-             'nicu'
-             'batranul parc'
-             'ghita'
-             'tiganul'
-             'nicolae')
+             ' gigi'
+             ' petru'
+             ' nicu'
+             ' batranul parc'
+             ' ghita'
+             ' iosca'
+             ' tiganul'
+             ' ioan'
+             ' nicolae')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
