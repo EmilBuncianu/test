@@ -22,6 +22,8 @@ if __name__ == '__main__':
              ' iosca'
              ' tiganul'
              ' ioan'
-             ' nicolae')
+             ' nicolae'
+            'mosu_gras_cap'
+            'boschi')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
